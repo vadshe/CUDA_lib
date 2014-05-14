@@ -1,0 +1,12 @@
+data/stereo.im0.640x533.ppm
+data/stereo.im1.640x533.ppm
+CMakeLists.txt
+Makefile
+NsightEclipse.xml
+output_CPU.pgm
+output_GPU.pgm
+readme.txt
+stereoDisparity
+stereoDisparity.cu
+stereoDisparity.o
+stereoDisparity_kernel.cuh
